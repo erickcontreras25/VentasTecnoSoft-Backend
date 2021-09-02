@@ -1,0 +1,14 @@
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\bin\Debug\netcoreapp2.1\VentasTecnoSoft.deps.json
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\bin\Debug\netcoreapp2.1\VentasTecnoSoft.runtimeconfig.json
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\bin\Debug\netcoreapp2.1\VentasTecnoSoft.runtimeconfig.dev.json
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\bin\Debug\netcoreapp2.1\VentasTecnoSoft.dll
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\bin\Debug\netcoreapp2.1\VentasTecnoSoft.pdb
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.csprojAssemblyReference.cache
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.RazorAssemblyInfo.cache
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.RazorAssemblyInfo.cs
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.RazorTargetAssemblyInfo.cache
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.dll
+C:\Users\erick\OneDrive\Desktop\carac\VentasTecnoSoft\VentasTecnoSoft\obj\Debug\netcoreapp2.1\VentasTecnoSoft.pdb
